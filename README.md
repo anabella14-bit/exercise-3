@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -129,14 +129,6 @@
         </form>
   
     
-    <script 
-            function sq(){
-
-cal.display.value=Math.sqrt(cal.display.value);
-
- }
-
-
-
+   
 </body>
 </html>
